@@ -5,7 +5,7 @@ about:
   head: b877bfd
   archived: false
   latestVersion: "v0.3.4"
-  collectedAt: 2026-09-07T05:29:38Z
+  collectedAt: 2026-09-07T18:58:38Z
 timeline:
   created: 2026-02-10
   lastCommit: 2026-08-26
@@ -32,7 +32,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 5
   last60d:
     since: 2026-07-09
     release: 0
@@ -40,7 +40,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 10
   last90d:
     since: 2026-06-09
     release: 1
@@ -48,7 +48,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 22
   last180d:
     since: 2026-03-11
     release: 3
@@ -56,7 +56,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 97
   last360d:
     since: 2025-09-12
     release: 17
@@ -64,7 +64,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 330
   last720d:
     since: 2024-09-17
     release: 17
@@ -82,7 +82,7 @@ total:
   commit: 456
 ---
 path: /home/runner/.x-repo/github.com/thobiasn/tori-cli
-collectedAt: 2026-09-07T05:29:39Z
+collectedAt: 2026-09-07T18:58:40Z
 loc:
   Go:
     code: 27403
@@ -143,7 +143,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:29:40+00:00
+  collectedAt: 2026-09-07T18:58:41+00:00
   platform:
     darwin/arm64:
       name:  tori_0.3.4_darwin_arm64
