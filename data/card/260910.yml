@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.4"
   latestRelease: "v0.3.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:40:28Z
+  collectedAt: 2026-09-10T17:30:15Z
 timeline:
   created: 2026-02-10
   lastCommit: 2026-08-26
@@ -86,7 +86,7 @@ total:
   commit: 456
 ---
 path: /home/runner/.x-repo/github.com/thobiasn/tori-cli
-collectedAt: 2026-09-10T05:40:30Z
+collectedAt: 2026-09-10T17:30:17Z
 loc:
   Go:
     code: 27403
