@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 358,
       "digest": "sha256:0c663a0061c74afee71d3c14e7bd8c28b855bf29b0edde91bf396c40daac417c",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-06-27T09:59:36Z",
       "updated_at": "2026-06-27T09:59:36Z",
       "browser_download_url": "https://github.com/thobiasn/tori-cli/releases/download/v0.3.4/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14876514,
       "digest": "sha256:63ec1f962c23f978a9ce3a34f3b9951ab240b68b74e660517ff6b160a9ab6983",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-06-27T09:59:35Z",
       "updated_at": "2026-06-27T09:59:36Z",
       "browser_download_url": "https://github.com/thobiasn/tori-cli/releases/download/v0.3.4/tori_0.3.4_darwin_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15278264,
       "digest": "sha256:a4ad0fcaf39588f03c6d6cd3f04e87d483df625e81f854c15ee20efb0eb6c223",
-      "download_count": 96,
+      "download_count": 98,
       "created_at": "2026-06-27T09:59:35Z",
       "updated_at": "2026-06-27T09:59:36Z",
       "browser_download_url": "https://github.com/thobiasn/tori-cli/releases/download/v0.3.4/tori_0.3.4_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14549176,
       "digest": "sha256:16ca8f7f4545f9934c4be224abe223295b936644d405a99b99e1398205cf1622",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-06-27T09:59:35Z",
       "updated_at": "2026-06-27T09:59:36Z",
       "browser_download_url": "https://github.com/thobiasn/tori-cli/releases/download/v0.3.4/tori_0.3.4_linux_arm64"
