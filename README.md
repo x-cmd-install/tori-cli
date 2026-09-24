@@ -38,7 +38,7 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 316 · **Forks**: 14 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 317 · **Forks**: 14 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 3 | 8 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 7 | 8 | 0 | 1 | 7 |
-| 90d | 2026-06-25 | 1 | 16 | 8 | 0 | 1 | 16 |
-| last180d | 2026-03-27 | 2 | 57 | 8 | 0 | 1 | 56 |
-| 360d | 2025-09-28 | 17 | 126 | 8 | 1 | 1 | 330 |
-| last720d | 2024-10-03 | 17 | 126 | 8 | 1 | 1 | 456 |
+| 30d | 2026-08-25 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 7 | 8 | 0 | 1 | 7 |
+| 90d | 2026-06-26 | 1 | 16 | 8 | 0 | 1 | 16 |
+| last180d | 2026-03-28 | 2 | 57 | 8 | 0 | 1 | 56 |
+| 360d | 2025-09-29 | 17 | 126 | 8 | 1 | 1 | 330 |
+| last720d | 2024-10-04 | 17 | 126 | 8 | 1 | 1 | 456 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for tori-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:06:48Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:35:45Z._
