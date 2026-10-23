@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"tori-cli-bin","binname":"tori-cli-bin","visiblename":"tori-cli-bin","version":"0.3.4","origversion":"0.3.4-1","status":"unique","summary":"Lightweight Docker monitoring with alerting","maintainers":["dominiquini@aur","thobiasno@aur"],"licenses":["MIT"]}]
