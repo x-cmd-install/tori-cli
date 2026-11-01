@@ -33,7 +33,7 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.4` (2026-06-27)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 133 · **Open PRs**: 5 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 470
+- **Releases**: 17 · **Merged PRs**: 134 · **Open PRs**: 4 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 472
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 1 | 5 | 0 | 0 | 1 |
-| last60d | 2026-09-01 | 0 | 7 | 5 | 0 | 0 | 7 |
-| 90d | 2026-08-02 | 0 | 14 | 5 | 0 | 1 | 14 |
-| last180d | 2026-05-04 | 1 | 41 | 5 | 0 | 1 | 41 |
-| 360d | 2025-11-05 | 17 | 133 | 5 | 1 | 1 | 337 |
-| last720d | 2024-11-10 | 17 | 133 | 5 | 1 | 1 | 470 |
+| 30d | 2026-10-02 | 0 | 2 | 4 | 0 | 0 | 1 |
+| last60d | 2026-09-02 | 0 | 8 | 4 | 0 | 0 | 6 |
+| 90d | 2026-08-03 | 0 | 15 | 4 | 0 | 1 | 13 |
+| last180d | 2026-05-05 | 1 | 41 | 4 | 0 | 1 | 41 |
+| 360d | 2025-11-06 | 17 | 134 | 4 | 1 | 1 | 338 |
+| last720d | 2024-11-11 | 17 | 134 | 4 | 1 | 1 | 472 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for tori-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:23:29Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:58:22Z._
