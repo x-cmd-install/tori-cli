@@ -42,18 +42,18 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 134 · **Open PRs**: 7 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 472
+- **Releases**: 17 · **Merged PRs**: 134 · **Open PRs**: 8 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 472
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 7 | 0 | 0 | 2 |
-| 90d | 2026-08-26 | 0 | 8 | 7 | 0 | 0 | 8 |
-| last180d | 2026-05-28 | 1 | 36 | 7 | 0 | 1 | 36 |
-| 360d | 2025-11-29 | 17 | 134 | 7 | 1 | 1 | 338 |
-| last720d | 2024-12-04 | 17 | 134 | 7 | 1 | 1 | 472 |
+| 30d | 2026-10-26 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 2 | 8 | 0 | 0 | 2 |
+| 90d | 2026-08-27 | 0 | 8 | 8 | 0 | 0 | 8 |
+| last180d | 2026-05-29 | 1 | 36 | 8 | 0 | 1 | 36 |
+| 360d | 2025-11-30 | 17 | 134 | 8 | 1 | 1 | 338 |
+| last720d | 2024-12-05 | 17 | 134 | 8 | 1 | 1 | 472 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for tori-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:29:48Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:08:52Z._
