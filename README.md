@@ -48,12 +48,12 @@ Total: **28,364** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 2 | 8 | 0 | 0 | 2 |
-| 90d | 2026-08-28 | 0 | 8 | 8 | 0 | 0 | 8 |
-| last180d | 2026-05-30 | 1 | 36 | 8 | 0 | 1 | 36 |
-| 360d | 2025-12-01 | 17 | 134 | 8 | 1 | 1 | 338 |
-| last720d | 2024-12-06 | 17 | 134 | 8 | 1 | 1 | 472 |
+| 30d | 2026-10-28 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 2 | 8 | 0 | 0 | 2 |
+| 90d | 2026-08-29 | 0 | 8 | 8 | 0 | 0 | 8 |
+| last180d | 2026-05-31 | 1 | 36 | 8 | 0 | 1 | 36 |
+| 360d | 2025-12-02 | 17 | 134 | 8 | 1 | 1 | 338 |
+| last720d | 2024-12-07 | 17 | 134 | 8 | 1 | 1 | 472 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for tori-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:20Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:01:31Z._
